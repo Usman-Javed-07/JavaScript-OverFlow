@@ -2,8 +2,7 @@
 
 //   land scape of two numbers . 
 
-// if width is grater it returns landscape if height is greater it returns portrait
-
+// if width is grater it returns true if height is greater than returns false
 // my code 
 let img = islandscape (500 , 400) ;
 console.log(img);
